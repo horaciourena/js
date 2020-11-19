@@ -1,0 +1,1 @@
+alert("Saludos desde un archivo externo!")
